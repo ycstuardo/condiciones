@@ -1,0 +1,16 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.code {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
